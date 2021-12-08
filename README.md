@@ -1,1 +1,1 @@
-# ELEC554
+# Wake Up the World Detection - TinyML
